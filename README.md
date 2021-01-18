@@ -4,6 +4,9 @@ SIMPLE BATCH SCRIPT TO DELETE TEMPORARY FILES..
 
 ![](https://i.ibb.co/y812mw9/bzshut.png)
 
+
+DOWNLOAD FROM HERE: https://min.gitcdn.link/repo/arunkumartdr/BZSHUT/main/BZSHUT.bat
+
 # CAUTION
 1.PLEASE CLOSE ALL APPLICATION BEFORE USING THIS SCRIPT.
 
